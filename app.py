@@ -37,4 +37,5 @@ st.text('')
 st.text('')
 st.markdown(
     '`CREATED BY` [SUDHIR, SUMIT, MAHADEVI AND SHIVAM] | \
+    `Code:` [GitHub](https://github.com/santiviquez/iris-streamlit)\
          `DEPT:` [DEPT OF ELECTRONICS AND TELECOMMUNICATION]')
