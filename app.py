@@ -39,5 +39,3 @@ st.markdown(
     '`CREATED BY` [SUDHIR, SUMIT, MAHADEVI AND SHIVAM] | \
     `Code:` [GitHub](https://github.com/Sudhir-Agnihotri/iris-flower-classification) n\
          `DEPT:` [DEPT OF ELECTRONICS AND TELECOMMUNICATION]')
-st.markdown( 
-     `Code:` [GitHub](https://github.com/Sudhir-Agnihotri/iris-flower-classification)')
