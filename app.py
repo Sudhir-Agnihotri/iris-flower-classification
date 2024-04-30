@@ -36,6 +36,6 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`CREATED BY` [SUDHIR, SUMIT, MAHADEVI AND SHIVAM] | \
-    `Code:` [GitHub](https://github.com/Sudhir-Agnihotri/iris-flower-classification)\
+    '`CREATED BY` [SUDHIR, SUMIT, MAHADEVI AND SHIVAM] | n\
+    `Code:` [GitHub](https://github.com/Sudhir-Agnihotri/iris-flower-classification) n\
          `DEPT:` [DEPT OF ELECTRONICS AND TELECOMMUNICATION]')
